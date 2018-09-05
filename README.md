@@ -22,4 +22,5 @@ Just run "ruby netant.rb" from a shell. You must be root or sudo though..
 
 # Version history #
 
+0.1.1 - 2018-09-05 - Functions moved to a module
 0.1.0 - 2018-09-03 - Multiple interface selection. Ping, active arp, passive arp host scan.
